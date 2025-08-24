@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1> Lista de compras (com vale-compras ilimitado)</h1>
+<ol>
+<li>Picanha</li>
+<li>Danone</li>
+<li>Refrigerante</li>
+<li>Um rolo de macarrão</li>
+<li>Molho de tomate</li>
+<li>Leite</li>
+<li>Doces</li>
+<li>Bolo</li>
+</ol>
+</body>
+</html>
