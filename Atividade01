@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./index.css">
+  </head>
+
+  <body>
+    <h1>🚀 O Futuro do Desenvolvimento Web</h1>
+    <p> O desenvolvimento web está em constante evolução, trazendo novas tecnologias e desafios. Criar um site moderno envolve conhecer diferentes linguagens e práticas recomendadas.</p>
+    <p>
+    </p>
+    <h2> 📌 Principais Tecnologias Utilizadas</h2>
+    <p>O desenvolvimento web pode ser dividido em três camadas principais:</p>
+    <p>
+    </p>
+    <ol>
+      <li><strong>Frontend</strong> - Responsável pela interface visual. Tecnologias principais:
+        <ul>
+          <li> HTML (estrutura)
+
+          </li>
+          <li> CSS (estilo)
+
+          </li>
+          <li> JavaScript (Interatividade)
+          </li>
+        </ul>
+      </li>
+      <li><strong>Backend</strong> - Responsável pelo funcionamento interno do site. Principais tecnologias:
+        <ul>
+          <li>Node.js
+          </li>
+          <li>Python (Django, Flask)
+          </li>
+        </ul>
+      </li>
+      <li><strong>Banco de dados</strong> - Onde as informações são armazenadas. Alguns exemplos:
+
+        <ul>
+          <li>MySQL
+
+          </li>
+          <li> PostgreSQL
+
+          </li>
+          <li>MongoDB
+
+          </li>
+        </ul>
+      </li>
+    </ol>
+    <h2>
+      🔥 Tendências do Desenvolvimento Web </h2>
+    <p>Algumas tendências estão moldando o futuro da web:</p>
+    <p>
+    </p>
+    <ul>
+      <li><strong>Aplicativos web progressivas (PWA)</strong> - Sites que funcionam como apps nativos.
+      </li>
+      <li><strong> Inteligência artificial </strong> - Personalização de experiências com IA.
+      </li>
+      <li><strong>Web 3.0 e Blockchain</strong> - Tecnologias descentralizadas para segurança e privacidade.
+      </li>
+    </ul>
+    <h2> 🎯 Dicas para Iniciantes</h2>
+    <p>Se você está começando, siga estas etapas:</p>
+    <ol>
+      <li>Pratique criando projetos simples.
+      </li>
+      <li> Explore frameworks populares (React, Vue.js, Angular).
+      </li>
+      <li> Entenda como funciona o backend.
+      </li>
+      <li>Participe de comunidades e compartilhe seu código no GitHub.
+      </li>
+    </ol>
+  </body>
+
+</html>
